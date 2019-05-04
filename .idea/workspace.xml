@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="513c06fa-fc3c-4867-8c0c-c5d4321c2344" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kekek.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -93,12 +93,12 @@
       <workItem from="1556901577968" duration="12308000" />
       <workItem from="1556920068837" duration="4545000" />
       <workItem from="1556959220004" duration="1882000" />
-      <workItem from="1556961140315" duration="272000" />
+      <workItem from="1556961140315" duration="913000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32004000" />
+    <option name="totallyTimeSpent" value="32645000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
